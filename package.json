@@ -1,0 +1,9 @@
+{
+  "name": "disco-maps",
+  "version": "0.0.0",
+  "description": "easy network service discovery and advertising",
+  "main": "index.js",
+  "repository": "",
+  "author": "Emily Rose <emily@contactvibe.com>",
+  "license": "BSD"
+}
