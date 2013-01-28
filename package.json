@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git://github.com/nexxy/disco-maps.git",
   "author": "Emily Rose <emily@contactvibe.com>",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "mdns": "~1.1.0"
+  }
 }
