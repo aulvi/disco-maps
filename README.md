@@ -1,7 +1,7 @@
 # discomesh
 ## easy network service discovery and advertising in Node.js
 
-__require:__ 	`var disco = require('discomesh')`
+__require:__ 	`var disco = require('disco-maps')`
 
 
 __add a service:__ 	`disco.addService(type, tag, port)`
