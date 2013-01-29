@@ -1,4 +1,4 @@
-# discomesh
+# disco-maps
 ## easy network service discovery and advertising in Node.js
 
 __require:__ 	`var disco = require('disco-maps')`
