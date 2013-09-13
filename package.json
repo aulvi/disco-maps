@@ -7,6 +7,6 @@
   "author": "Emily Rose <emily@contactvibe.com>",
   "license": "BSD",
   "dependencies": {
-    "mdns": "~1.1.0"
+	"mdns": "git://github.com/aulvi/node_mdns.git"
   }
 }
