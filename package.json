@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "easy network service discovery and advertising",
   "main": "index.js",
-  "repository": "git://github.com/nexxy/disco-maps.git",
+  "repository": "git://github.com/aulvi/disco-maps.git",
   "author": "Emily Rose <emily@contactvibe.com>",
   "license": "BSD",
   "dependencies": {
